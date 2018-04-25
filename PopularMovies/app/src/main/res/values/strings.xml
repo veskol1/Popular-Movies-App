@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Most Popular Movies</string>
+
+
+
+    <!-- Main Activity-->
+    <string name="main_movie_poster_label">movie poster</string>
+
+
+    <!-- Detail Activity-->
+    <string name="detail_movie_release_date_label">Release Date: </string>
+    <string name="detail_movie_geners_label">Geners: </string>
+    <string name="detail_movie_overview_label">Overview: </string>
+    <string name="detail_movie_vertical_poster_label">vertical movie poster</string>
+
+    <string name="detail_movie_trailers_label">Trailers</string>
+    <string name="movie_trailer_label">movie trailer poster</string>
+
+    <string name="detail_movie_reviews_label">Reviews</string>
+    <string name="movie_review_label">movies review</string>
+
+    <!-- Menu Strings-->
+    <string name="menu_most_popular_label">Most Popular</string>
+    <string name="menu_top_rated_label">Top Rated</string>
+    <string name="menu_favorite_movies_label">Favorite Movies</string>
+</resources>
