@@ -7,14 +7,14 @@ In this project, I build an app to allow users to discover the most popular movi
 The app shows grid arrangement of movie posters upon launch.
 Allow your user to change sort order via a setting by most popular or by highest-rated
 Allow the user to tap on a movie poster and transition to a details screen with additional information such as:
-*original title
-*movie poster image thumbnail
-*A plot synopsis (called overview in the api)
-*user rating (called vote_average in the api)
-*release date
-*view and play trailers ( either in the youtube app or a web browser).
-*read reviews of a selected movie.
-*mark a movie as a favorite in the details view by tapping a button(star).
+* original title
+* movie poster image thumbnail
+* A plot synopsis (called overview in the api)
+* user rating (called vote_average in the api)
+* release date
+* view and play trailers ( either in the youtube app or a web browser).
+* read reviews of a selected movie.
+* mark a movie as a favorite in the details view by tapping a button(star).
 
 The app stores the names and ids of the user's favorite movies and display their favorites collection while offline.
 
