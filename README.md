@@ -18,6 +18,9 @@ Allow the user to tap on a movie poster and transition to a details screen with 
 
 The app stores the names and ids of the user's favorite movies and display their favorites collection while offline.
 
-##Screens
+## Screens
 
 ![screen](https://lh3.googleusercontent.com/_umBBJB4XovkQpMRt5YR0dfnaO3FdFH5W9pN4BLwHY_5D5KDI5E23DEc1p7FfOD5ghX8Pl2EpM8gDJvHf6Dh=w1921-h929-rw)
+
+
+![screen](https://lh3.googleusercontent.com/BpI-dgoOgeDuGe2kyk5RL0CXSZ7rLCmMiPPXu0Oqb_97wU9OFth6_27vdQ72eBOIXCBv1-NdnQQvvibTxKnA=w1921-h929-rw)
