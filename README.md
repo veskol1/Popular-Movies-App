@@ -20,7 +20,5 @@ The app stores the names and ids of the user's favorite movies and display their
 
 ## Screens
 
-![screen](https://lh3.googleusercontent.com/_umBBJB4XovkQpMRt5YR0dfnaO3FdFH5W9pN4BLwHY_5D5KDI5E23DEc1p7FfOD5ghX8Pl2EpM8gDJvHf6Dh=w1921-h929-rw)
-
-
-![screen](https://lh3.googleusercontent.com/BpI-dgoOgeDuGe2kyk5RL0CXSZ7rLCmMiPPXu0Oqb_97wU9OFth6_27vdQ72eBOIXCBv1-NdnQQvvibTxKnA=w1921-h929-rw)
+![popular movies 1](https://user-images.githubusercontent.com/13125281/44620311-ba5eb900-a89a-11e8-8665-9518c4edfdff.jpg)
+![popular movies 2](https://user-images.githubusercontent.com/13125281/44620312-bcc11300-a89a-11e8-814b-cc63a1f29195.jpg)
