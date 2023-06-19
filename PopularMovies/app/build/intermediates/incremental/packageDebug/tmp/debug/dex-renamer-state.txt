@@ -1,0 +1,4 @@
+#Mon Jun 19 22:18:57 IDT 2023
+base.0=C\:\\Users\\vesko\\AndroidStudioProjects\\Popular-Movies-App\\PopularMovies\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

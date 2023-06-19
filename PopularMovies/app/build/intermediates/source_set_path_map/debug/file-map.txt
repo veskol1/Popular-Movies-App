@@ -1,0 +1,16 @@
+com.example.android.popularmovies.app-design-27.1.0-0 C:\Users\vesko\.gradle\caches\transforms-3\0e8015bce0e0d10cc001b5eac285124e\transformed\design-27.1.0\res
+com.example.android.popularmovies.app-transition-27.1.0-1 C:\Users\vesko\.gradle\caches\transforms-3\4605f8ac0c01911051f0b90e3c1bf864\transformed\transition-27.1.0\res
+com.example.android.popularmovies.app-support-core-ui-27.1.0-2 C:\Users\vesko\.gradle\caches\transforms-3\5b8a7084a0b63cc46f20eee9b07c6a2d\transformed\support-core-ui-27.1.0\res
+com.example.android.popularmovies.app-support-compat-27.1.0-3 C:\Users\vesko\.gradle\caches\transforms-3\915570569b09eb48127c854480a5eef4\transformed\support-compat-27.1.0\res
+com.example.android.popularmovies.app-support-media-compat-27.1.0-4 C:\Users\vesko\.gradle\caches\transforms-3\9cddaf37199fb0a3f291afd9a0ca7db2\transformed\support-media-compat-27.1.0\res
+com.example.android.popularmovies.app-appcompat-v7-27.1.0-5 C:\Users\vesko\.gradle\caches\transforms-3\cee07fc5e5ef6e7c5c2a989f71f91422\transformed\appcompat-v7-27.1.0\res
+com.example.android.popularmovies.app-recyclerview-v7-27.1.0-6 C:\Users\vesko\.gradle\caches\transforms-3\d83111724d965213fa5ad1a603f2f7c6\transformed\recyclerview-v7-27.1.0\res
+com.example.android.popularmovies.app-constraint-layout-1.0.2-7 C:\Users\vesko\.gradle\caches\transforms-3\e1c5180ad5d82d570b4b45111942e96e\transformed\constraint-layout-1.0.2\res
+com.example.android.popularmovies.app-pngs-8 C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\build\generated\res\pngs\debug
+com.example.android.popularmovies.app-resValues-9 C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\build\generated\res\resValues\debug
+com.example.android.popularmovies.app-rs-10 C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\build\generated\res\rs\debug
+com.example.android.popularmovies.app-mergeDebugResources-11 C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.popularmovies.app-mergeDebugResources-12 C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.popularmovies.app-merged_res-13 C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\build\intermediates\merged_res\debug
+com.example.android.popularmovies.app-debug-14 C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\debug\res
+com.example.android.popularmovies.app-main-15 C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\res

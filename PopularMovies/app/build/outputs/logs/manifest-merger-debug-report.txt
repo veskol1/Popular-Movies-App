@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\0e8015bce0e0d10cc001b5eac285124e\transformed\design-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\d83111724d965213fa5ad1a603f2f7c6\transformed\recyclerview-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\cee07fc5e5ef6e7c5c2a989f71f91422\transformed\appcompat-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vesko\.gradle\caches\transforms-3\e1c5180ad5d82d570b4b45111942e96e\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\e26a5155ea387975d0114d63ae773c2d\transformed\support-v4-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c40b4f24799d366c323d249eec5bf966\transformed\support-fragment-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\3f7d7c4430db2850d312dfd11181e4d7\transformed\animated-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\5b8a7084a0b63cc46f20eee9b07c6a2d\transformed\support-core-ui-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c48936fcf3d4db2f4cbc060986641a88\transformed\support-core-utils-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\97f3ee76f68c79f639f454fcf1447b93\transformed\support-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\4605f8ac0c01911051f0b90e3c1bf864\transformed\transition-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\9cddaf37199fb0a3f291afd9a0ca7db2\transformed\support-media-compat-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\915570569b09eb48127c854480a5eef4\transformed\support-compat-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c7fc83ea9d8ba39435ae3ca8b1810b6e\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\54802963134b9ae2771a85b89dbe5e9e\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\5ae15723763fb3c38215715d0cfa0440\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\483c02ac35f81e6b74dcf31d617b25ac\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:6:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vesko\.gradle\caches\transforms-3\e1c5180ad5d82d570b4b45111942e96e\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vesko\.gradle\caches\transforms-3\e1c5180ad5d82d570b4b45111942e96e\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.android.popularmovies.MainActivity
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:launchMode
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:14:19-50
+	android:name
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.android.popularmovies.DetailMovie
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:21:9-22:106
+	android:parentActivityName
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:22:18-93
+	android:name
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:21:19-46
+provider#com.example.android.popularmovies.Data.MovieContentProvider
+ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:23:9-26:39
+	android:authorities
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:25:13-68
+	android:exported
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml:24:13-87
+uses-sdk
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\0e8015bce0e0d10cc001b5eac285124e\transformed\design-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\0e8015bce0e0d10cc001b5eac285124e\transformed\design-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\d83111724d965213fa5ad1a603f2f7c6\transformed\recyclerview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\d83111724d965213fa5ad1a603f2f7c6\transformed\recyclerview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\cee07fc5e5ef6e7c5c2a989f71f91422\transformed\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\cee07fc5e5ef6e7c5c2a989f71f91422\transformed\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vesko\.gradle\caches\transforms-3\e1c5180ad5d82d570b4b45111942e96e\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vesko\.gradle\caches\transforms-3\e1c5180ad5d82d570b4b45111942e96e\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\e26a5155ea387975d0114d63ae773c2d\transformed\support-v4-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\e26a5155ea387975d0114d63ae773c2d\transformed\support-v4-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c40b4f24799d366c323d249eec5bf966\transformed\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c40b4f24799d366c323d249eec5bf966\transformed\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\3f7d7c4430db2850d312dfd11181e4d7\transformed\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\3f7d7c4430db2850d312dfd11181e4d7\transformed\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\5b8a7084a0b63cc46f20eee9b07c6a2d\transformed\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\5b8a7084a0b63cc46f20eee9b07c6a2d\transformed\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c48936fcf3d4db2f4cbc060986641a88\transformed\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c48936fcf3d4db2f4cbc060986641a88\transformed\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\97f3ee76f68c79f639f454fcf1447b93\transformed\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\97f3ee76f68c79f639f454fcf1447b93\transformed\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\4605f8ac0c01911051f0b90e3c1bf864\transformed\transition-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\4605f8ac0c01911051f0b90e3c1bf864\transformed\transition-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\9cddaf37199fb0a3f291afd9a0ca7db2\transformed\support-media-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\9cddaf37199fb0a3f291afd9a0ca7db2\transformed\support-media-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\915570569b09eb48127c854480a5eef4\transformed\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\vesko\.gradle\caches\transforms-3\915570569b09eb48127c854480a5eef4\transformed\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c7fc83ea9d8ba39435ae3ca8b1810b6e\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\c7fc83ea9d8ba39435ae3ca8b1810b6e\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\54802963134b9ae2771a85b89dbe5e9e\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\54802963134b9ae2771a85b89dbe5e9e\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\5ae15723763fb3c38215715d0cfa0440\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\5ae15723763fb3c38215715d0cfa0440\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\483c02ac35f81e6b74dcf31d617b25ac\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vesko\.gradle\caches\transforms-3\483c02ac35f81e6b74dcf31d617b25ac\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vesko\AndroidStudioProjects\Popular-Movies-App\PopularMovies\app\src\main\AndroidManifest.xml
